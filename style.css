@@ -1,0 +1,76 @@
+header h1 {
+    color: #2c3380;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    background-color: #657a8f;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    background-color: white;
+    border: 2px solid #292222;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #467db1;
+}
+
+
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid #163e67;
+}
+
+.highlight {
+    color: #4f7091;
+    font-weight: bold;
+}
+
+a {
+    color: white;
+    background-color: #4f7091;
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #999;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4f7091;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+}
+
+footer {
+    text-align: center;
+    background-color: #dbe8f2;
+    border: 2px solid #4f7091;
+    padding: 10px;
+}
